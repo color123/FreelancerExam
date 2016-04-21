@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\user\Desktop\extracted\FLTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\user\Desktop\extracted\FLTest\app\build\intermediates\pre-dexed\debug\classes-86a7c668ff9422e0063ddfd9a597711aa85b1f0b.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\extracted\FLTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="32ab8bede8cd600f25a5bb3fe15068c81c8910dc">
+        <dex dex="C:\Users\user\Desktop\extracted\FLTest\app\build\intermediates\pre-dexed\debug\classes-011050d9d34a9806a11f44aa14c7f23655ee40a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\Users\user\Desktop\extracted\FLTest\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.2-90a31b377bb3c162752c77ff396a253287d75e33.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\Users\user\Desktop\extracted\FLTest\app\build\intermediates\pre-dexed\debug\retrofit-2.0.2-e9f1aade238ceed113d61ffb7b6e419aa71e110b.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\extracted\FLTest\app\build\intermediates\exploded-aar\com.github.satyan\sugar\1.4\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ac045b53684345f4ec8468477e8fc5034d0d2bfd">
+        <dex dex="C:\Users\user\Desktop\extracted\FLTest\app\build\intermediates\pre-dexed\debug\classes-2bd4878a5e001637c9bf2553fcb521902e959072.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\user\Desktop\extracted\FLTest\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0-016fb16434c999657551c94841601c792b75ec81.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\extracted\FLTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\user\Desktop\extracted\FLTest\app\build\intermediates\pre-dexed\debug\classes-9a29ddbb761b74213f82f4be5cdd51eacd3e6013.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\user\Desktop\extracted\FLTest\app\build\intermediates\pre-dexed\debug\okio-1.6.0-ccebb9545c5da1b53c1ebc75ec0fe8296f782e8e.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\user\Desktop\extracted\FLTest\app\build\intermediates\pre-dexed\debug\gson-2.6.1-c8170208a1f64d9e159b6f10fd65867add9501f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha2\support-annotations-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8071e1e6cd07e9253720313d6c14286a7ee424e0">
+        <dex dex="C:\Users\user\Desktop\extracted\FLTest\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha2-2a7fc70baa94256cf5042fd7f818b89b15029a2a.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\extracted\FLTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\user\Desktop\extracted\FLTest\app\build\intermediates\pre-dexed\debug\classes-c8ac046b7c3d734dbd92121925673653d5495904.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\extracted\FLTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\libs\internal_impl-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e460bc069dfd21d22770cf2a2370c9021b9c98a2">
+        <dex dex="C:\Users\user\Desktop\extracted\FLTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha2-4a856c7626e8eb844e077fdd692a9c7c83b53805.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\18.0\cce0823396aa693798f8882e64213b1772032b09\guava-18.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Users\user\Desktop\extracted\FLTest\app\build\intermediates\pre-dexed\debug\guava-18.0-e3cffdbad4ab30adea13b52bf3acbdff30017334.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\extracted\FLTest\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0-alpha2\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2f417d93e1f62fd4fb4a2c0f3a4a882dd0ca7843">
+        <dex dex="C:\Users\user\Desktop\extracted\FLTest\app\build\intermediates\pre-dexed\debug\classes-54105998ffaccea35f265795febb828c9e815869.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\user\Desktop\extracted\FLTest\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1-57499916d6e2ad7e501556c780ea05e9adb2962d.jar" />
+    </item>
+
+</items>

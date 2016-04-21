@@ -1,0 +1,84 @@
+=======================
+Preamble
+=======================
+
+You've been hired as an Android Engineer to build a TV Guide application. Another developer has already begun work on the project but has recently decided to pursue a career in gangster rap which is probably a good move looking at their code.
+ Your employer is not satisfied with the quality of the project and has given you the task of improving it to be able to meet their standards.
+
+You must complete what they have started, for the fate of the world (of local tv) depends on it.
+
+
+
+=======================
+API
+=======================
+==
+The TV Programme
+
+The TV Guide you'll be programming to is found at this URL:
+http://whatsbeef.net/wabz/guide.php?start=0
+
+
+The returned JSON consists of 2 parts:
+
+
+* Results - JSONArray of TV programs
+	
+* Count - Total programs available
+The url parameter 'start' determines the offset of the list, with the list returning 10 items at once.
+
+For example, if count is 28, then start=0 will return programs 0-9, start=10 will return 10-19, and start=20 will return 20-28.
+
+
+
+
+=======================
+App Requirements
+=======================
+
+
+The app will simply display a list of TV programmes pulled from the API.
+
+You must complete these tasks (in any order you like). Create a publicly accessible git repository and commit your work as you go
+
+
+
+You can use any 3rd party libraries you like.
+
+You can play with the app design however you like.
+
+
+
+* The app currently does not support paging and automatic loading of list items. Your employer believes that this is bad user experience. The list must be endless where scrolling down automatically populates the rest of the list up until the maximum number of programs specified by the 'count' result that is returned from the above URL.
+
+
+* The list items currently only show the name of the program. You must modify the items to display all the information that is returned through the API, including start_time, end_time, channel, and rating. You can design the list items however you like. Your employer has also noted that the app is allocationg a lot of memory whenever the list is being scrolled. Afraid of getting bad reviews, your employer wants you to fix that.
+
+* Because they want to be cutting edge, your employer wants all of your apps to use the new RecyclerView widget instead of the old ListView one. That includes this app.
+
+* There are no model classes defined for the data in the app.
+
+* Networking in the app is currently very poor: the call is synchronous and it uses a depracated method of accessing an HTTP webservice. Because your employer once again wants to be cutting edge, they want you to use any modern HTTP library that supports asynchronous network calls.
+
+* JSON parsing is currently done manually. Use any JSON parsing library to improve upon this.
+
+
+* Offline Caching - If the user accesses the app again while offline we want to make sure they can still see the data that has been downloaded previously. Implement local storage for the data fetched through the API. Using a ContentProvider or any ORM for android is recommended by your employer.
+
+
+=======================
+BONUS
+=======================
+
+* Make the app compatible for Gingerbread and above
+
+* Create a mock flavor of the app using gradle and mock the API end points to return mock model data
+* Use any dependency injection framework to make the code base cleaner and more modularized
+
+=======================
+Things to submit
+=======================
+
+* Generated APK File (attach separately, do not bundle in with source code zip file)
+* Zip of source code
+* link to git repository
